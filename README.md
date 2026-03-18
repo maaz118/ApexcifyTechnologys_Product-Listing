@@ -34,13 +34,7 @@ LinkedIn: https://www.linkedin.com/in/maaz-amir-666761252
 Email: maazamir232@gmail.com
 
 ## Project Picture
-<img width="950" height="415" alt="image" src="https://github.com/user-attachments/assets/99ac8840-26dd-4fd5-b203-7c689809f22d" />
-<img width="944" height="403" alt="image" src="https://github.com/user-attachments/assets/e0c75cfd-bdc4-4b42-8255-e7ccc25733a7" />
-<img width="948" height="417" alt="image" src="https://github.com/user-attachments/assets/64446a75-085a-4483-bfbf-9c8adea220e5" />
-<img width="940" height="267" alt="image" src="https://github.com/user-attachments/assets/4fa28426-ef4d-4b87-b04b-26d49f51dae7" />
-<img width="946" height="299" alt="image" src="https://github.com/user-attachments/assets/0a27cf2b-bb8a-464c-9e4b-17fcd21a4e89" />
-<img width="944" height="241" alt="image" src="https://github.com/user-attachments/assets/36d1d2ac-fe6a-419d-b671-dc4c9131f27f" />
-<img width="946" height="412" alt="image" src="https://github.com/user-attachments/assets/69497b60-6168-442f-8e9f-5ee0e4728c12" />
+<img width="936" height="396" alt="image" src="https://github.com/user-attachments/assets/8d85ab9f-4a53-4247-9b8e-b9bfc725c63d" />
+<img width="946" height="399" alt="image" src="https://github.com/user-attachments/assets/ac6615e1-5098-4658-9eca-537b211b74c1" />
+<img width="950" height="107" alt="image" src="https://github.com/user-attachments/assets/bff7d273-fdb4-4427-8d75-f54249c87867" />
 
-
-</p>
